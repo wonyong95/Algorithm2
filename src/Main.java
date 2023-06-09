@@ -13,7 +13,7 @@ public class Main {
         if(b>max) max=b;
         if(c>max) max=c;
 
-        System.out.println("최대값은"+max+"입니다");
+        System.out.println("최대값은"+max+"입니다1");
 
 
     }
